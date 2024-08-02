@@ -29,4 +29,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/varungupta04/ccprac/tree/master/0222-count-complete-tree-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/varungupta04/ccprac/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/varungupta04/ccprac/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/varungupta04/ccprac/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
