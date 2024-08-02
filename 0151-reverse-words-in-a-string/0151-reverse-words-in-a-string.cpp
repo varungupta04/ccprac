@@ -1,35 +1,33 @@
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     string reverseWords(string s) {
-        
+        int i = 0;
+        int n = s.length();
         string ans = "";
-        string temp = "";
-        for(int i = s.size()-1; i>=0; i--){
 
-            if(s[i] != ' '){
-                temp = s[i] + temp;
+        while (i < n) {
+            while (i < n && s[i] == ' ') {
+                i++;
             }
-            else{
-                while( i>=0   &&   s[i] == ' '){
-                    i--;
-                }
+            
+            string temp = "";
+            while (i < n && s[i] != ' ') {
+                temp += s[i];
+                i++;
+            }
 
-                if(i>=0 && temp.size()>0){
-                    ans = ans + temp;
-                    ans = ans + ' ';
-                }
-
-                if(i>=0){
-                    temp = s[i];
+            if (!temp.empty()) {
+                if (ans.empty()) {
+                    ans = temp;
+                } else {
+                    ans = temp + " " + ans;
                 }
             }
         }
-
-        if(temp.size() > 0 ){
-            ans = ans + temp;
-        }
-
+        
         return ans;
-
     }
 };
