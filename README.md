@@ -42,9 +42,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/varungupta04/ccprac/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varungupta04/ccprac/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varungupta04/ccprac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/varungupta04/ccprac/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varungupta04/ccprac/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varungupta04/ccprac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varungupta04/ccprac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
