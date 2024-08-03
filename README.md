@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/varungupta04/ccprac/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -80,9 +81,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
