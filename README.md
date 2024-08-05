@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varungupta04/ccprac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/varungupta04/ccprac/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/varungupta04/ccprac/tree/master/0151-reverse-words-in-a-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/varungupta04/ccprac/tree/master/0134-gas-station) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/varungupta04/ccprac/tree/master/0134-gas-station) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
