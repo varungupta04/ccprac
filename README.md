@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/varungupta04/ccprac/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/varungupta04/ccprac/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/varungupta04/ccprac/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/varungupta04/ccprac/tree/master/0274-h-index) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/varungupta04/ccprac/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/varungupta04/ccprac/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
