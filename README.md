@@ -22,12 +22,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/varungupta04/ccprac/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varungupta04/ccprac/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/varungupta04/ccprac/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/varungupta04/ccprac/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varungupta04/ccprac/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/varungupta04/ccprac/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/varungupta04/ccprac/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/varungupta04/ccprac/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/varungupta04/ccprac/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
@@ -154,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/varungupta04/ccprac/tree/master/0273-integer-to-english-words) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
