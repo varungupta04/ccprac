@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/varungupta04/ccprac/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/varungupta04/ccprac/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/varungupta04/ccprac/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/varungupta04/ccprac/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/varungupta04/ccprac/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/varungupta04/ccprac/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/varungupta04/ccprac/tree/master/0273-integer-to-english-words) |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varungupta04/ccprac/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/varungupta04/ccprac/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/varungupta04/ccprac/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -168,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/varungupta04/ccprac/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +182,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/varungupta04/ccprac/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
