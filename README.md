@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/varungupta04/ccprac/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varungupta04/ccprac/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/varungupta04/ccprac/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/varungupta04/ccprac/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/varungupta04/ccprac/tree/master/0273-integer-to-english-words) |
 ## Union Find
