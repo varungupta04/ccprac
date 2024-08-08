@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/varungupta04/ccprac/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/varungupta04/ccprac/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/varungupta04/ccprac/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/varungupta04/ccprac/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/varungupta04/ccprac/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varungupta04/ccprac/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/varungupta04/ccprac/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -239,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/varungupta04/ccprac/tree/master/0076-minimum-window-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/varungupta04/ccprac/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
