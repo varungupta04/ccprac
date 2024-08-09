@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/varungupta04/ccprac/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/varungupta04/ccprac/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
+| [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varungupta04/ccprac/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/varungupta04/ccprac/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/varungupta04/ccprac/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
+| [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/varungupta04/ccprac/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
+| [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/varungupta04/ccprac/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/varungupta04/ccprac/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
+| [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/varungupta04/ccprac/tree/master/0921-spiral-matrix-iii) |
 ## Graph
 |  |
