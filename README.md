@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/varungupta04/ccprac/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varungupta04/ccprac/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/varungupta04/ccprac/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varungupta04/ccprac/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/varungupta04/ccprac/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/varungupta04/ccprac/tree/master/0380-insert-delete-getrandom-o1) |
 | [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/varungupta04/ccprac/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
 | [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/varungupta04/ccprac/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -221,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/varungupta04/ccprac/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/varungupta04/ccprac/tree/master/0399-evaluate-division) |
+| [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 ## Matrix
 |  |
 | ------- |
@@ -228,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/varungupta04/ccprac/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/varungupta04/ccprac/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/varungupta04/ccprac/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 ## Graph
 |  |
 | ------- |
