@@ -160,6 +160,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/varungupta04/ccprac/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/varungupta04/ccprac/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/varungupta04/ccprac/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1929-concatenation-of-array](https://github.com/varungupta04/ccprac/tree/master/1929-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/varungupta04/ccprac/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -257,6 +258,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/varungupta04/ccprac/tree/master/0068-text-justification) |
 | [0921-spiral-matrix-iii](https://github.com/varungupta04/ccprac/tree/master/0921-spiral-matrix-iii) |
+| [1929-concatenation-of-array](https://github.com/varungupta04/ccprac/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
